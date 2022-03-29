@@ -31,10 +31,10 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/niclas-fredriksson-959565126/">
+  <a href="https://www.linkedin.com/in/niclas-fredriksson-959565126/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/codingmentor">
+  <a href="https://t.me/codingmentor" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
