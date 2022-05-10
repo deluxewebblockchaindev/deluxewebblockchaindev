@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Senior Blockchain Developer
+  Full Stack Developer, Blockchain & Smart Contracts Expert
 </h1>
 
 <p>
@@ -31,7 +31,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/niclas-fredriksson-959565126/" target="_blank">
+  <a href="https://www.linkedin.com/in/chanthay-s-959565126/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/codingmentor" target="_blank">
@@ -47,14 +47,14 @@ I believe myself as a result-oriented programmer and strong communicator who und
   <h3 align='center'>
       👯 How to reach out 👯
    </h3>
-   <p align='center'> 📧 Email address: <a href='mailto:niclasf921@gmail.com'>niclasf921@gmail.com</a></p>
-   <p align='center'> 📞 Phone number: <a href='#'>+46 851972289</a></p>
+   <p align='center'> 📧 Email address: <a href='mailto:chanthaisihabouth@gmail.com'>chanthaisihabouth@gmail.com</a></p>
+   <!--p align='center'> 📞 Phone number: <a href='#'></a></p-->
 </div>
 
 ## Education
 
-💻 Computer Science, IT, Information Processing | Dalarna University \
-&ensp;&ensp;&nbsp;&nbsp;Bachelor's degree, Mathematics and Computer Science&nbsp;&nbsp;2007 – 2011
+💻 Computer Science, Information Technology | Udon Thani Rajabhat University \
+&ensp;&ensp;&nbsp;&nbsp;Bachelor's degree, Bachelor of Science Information Technology&nbsp;&nbsp;2007 – 2011
 
 
 ## Preferred Skills and Technologies
