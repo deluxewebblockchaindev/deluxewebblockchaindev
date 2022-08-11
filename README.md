@@ -58,7 +58,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 
 ## Preferred Skills and Technologies
-<div align="center">
+<!--div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
     <img align="left" src="https://img.shields.io/badge/truffle-2CA5E0?style=for-the-badge" />
@@ -97,4 +97,4 @@ I believe myself as a result-oriented programmer and strong communicator who und
     <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </div>
-</div>
+</div-->
