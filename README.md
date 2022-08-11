@@ -47,7 +47,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
   <h3 align='center'>
       👯 How to reach out 👯
    </h3>
-   <p align='center'> 📧 Email address: <a href='mailto:chanthaisihabouth@gmail.com'>chanthaisihabouth@gmail.com</a></p>
+   <p align='center'> 📧 Email address: <a href='mailto:volodvasy21@gmail.com'>volodvasy21@gmail.com</a></p>
    <!--p align='center'> 📞 Phone number: <a href='#'></a></p-->
 </div>
 
