@@ -53,7 +53,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 ## Education
 
-💻 Computer Science, Information Technology | Udon Thani Rajabhat University \
+💻 Computer Science, Information Technology | National Technical University \
 &ensp;&ensp;&nbsp;&nbsp;Bachelor's degree, Bachelor of Science Information Technology&nbsp;&nbsp;2007 – 2011
 
 
