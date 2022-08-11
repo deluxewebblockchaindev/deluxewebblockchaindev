@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Full Stack Developer, Blockchain & Smart Contracts Expert
+  Full Stack Web Developer, Crypto Enthusiast
 </h1>
 
 <p>
