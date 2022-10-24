@@ -38,8 +38,6 @@ I believe myself as a result-oriented programmer and strong communicator who und
   Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
 
-
-## Preferred Skills and Technologies
 <!--div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
