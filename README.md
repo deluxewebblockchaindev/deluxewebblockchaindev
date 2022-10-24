@@ -30,31 +30,13 @@ I believe myself as a result-oriented programmer and strong communicator who und
 </p>
 
 <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/volodymyr-vasylkivskyi-4b636b248/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://t.me/codingmentor" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 <p align='center'>
   Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
-
-<div align='center'>
-  <h3 align='center'>
-      👯 How to reach out 👯
-   </h3>
-   <p align='center'> 📧 Email address: <a href='mailto:volodvasy21@gmail.com'>volodvasy21@gmail.com</a></p>
-   <!--p align='center'> 📞 Phone number: <a href='#'></a></p-->
-</div>
-
-## Education
-
-💻 Computer Science, Information Technology | National Technical University \
-&ensp;&ensp;&nbsp;&nbsp;Bachelor's degree, Bachelor of Science Information Technology&nbsp;&nbsp;2007 – 2011
 
 
 ## Preferred Skills and Technologies
