@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-A senior blockchain engineer with 5+ years of experience and proficiency in developing DeFi Ecosystems | NFT Marketplace | Smart Contracts | ICO/IFO/ITOs | various of dApps today.
-Although I participated in web development for various purposes, Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
-With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM networks and Smart Contract world.
-I am fairly fluent with solidity and very used to all the libraries and tools for compiling and deploy smart contracts over various networks such as Ethereum, Binance Smart Chain, Polygon etc. 
-In addition, I also love to create flawless front-end pages with react frameworks and back-ends in frameworks based on node.js, PHP and Python, as started my career as a web developer since 10 years ago. 
-I believe myself as a result-oriented programmer and strong communicator who understands the remote work culture and love to see my valuable customers making a fast ROI from the products I built.
+Having 10+ years of experience in the software industry, currently working as a Fullstack Web & Web3 Engineer, having built many custom software and applications using React.js, Next.js, Web3, Solidity and Laravel. I can provide you the following services: Web Development, NFT Game, NFT Marketplace, DApp and DeFi. Thanks.
 <br><br>
 </p>
 
