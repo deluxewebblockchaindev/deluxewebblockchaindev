@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-Having 10+ years of experience in the software industry, currently working as a Fullstack Web & Web3 Engineer, having built many custom software and applications using React.js, Next.js, Web3, Solidity and Laravel. I can provide you the following services: Web Development, NFT Game, NFT Marketplace, DApp and DeFi. Thanks.
+Having 10+ years of experience in the software industry, currently working as a Fullstack Web & Web3 Engineer, having built many custom software and applications using React.js, Next.js, Web3js/Ethersjs Solidity and PHP/Laravel. I can provide you the following services: Web Development, NFT Game, NFT Marketplace, DApp and DeFi. Thanks.
 <br><br>
 </p>
 
